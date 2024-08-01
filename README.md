@@ -1,13 +1,13 @@
 
 # NetCDF to CSV
 
-Just an executable file that turns any .nc file into a comma seperated values file (CSV) in a specified directory with a simple GUI made with Tkinter.
+A script that turns any .nc file into a comma seperated values file (CSV) in a specified directory with a simple GUI made with Tkinter.
 
 
 
 ## Easy to use
 
-1. run the exe file (it might take 50 - 60 seconds to run just give it some time)
+1. run the script
 2. you will be greeted with that window
 
 ![image](https://github.com/user-attachments/assets/950d7568-27b6-493b-902c-ec9f1f2a47ac)
